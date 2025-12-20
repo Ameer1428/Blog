@@ -4,8 +4,7 @@ Welcome to my 11-day challenge exploring the rapidly evolving landscape of Gener
 
 ## 📅 The 11-Day Roadmap
 - [x] **Day 01:** [Infrastructure Bottlenecks & The "Code Red" Outages](#day-01-infrastructure-bottlenecks--the-code-red-outages)
-- [ ] **Day 02:** Agentic Workflows vs. Simple Chatbots
-- [ ] **Day 03:** Small Language Models (SLMs) on Edge Devices
+- [ ] **Day 02:** Beyond Chatbots—The Rise of Agentic Design Patterns
 - *(Upcoming topics include RAG, Multimodal Video, and AI Ethics)*
 
 ---
