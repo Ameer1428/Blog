@@ -1,4 +1,6 @@
 # Day 02: The Shift from "Chat" to "Agency" ⚙️
+**Date:** December 22, 2025  
+**Focus:** Reliability & Scalability: Moving from Chatbots to Age
 
 In late 2025, the industry has reached a "Prompting Plateau." Simply writing better prompts no longer yields significant ROI. The real breakthrough is occurring in **Agentic Workflows** moving from single-shot responses to autonomous, iterative loops.
 
