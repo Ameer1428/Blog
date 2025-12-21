@@ -1,5 +1,4 @@
-# 🚀 11 Days of GenAI: Trends, Facts & Insights (2025/26)
-## Day 01: Infrastructure Bottlenecks & The "Code Red" Outages
+# Day 01: Infrastructure Bottlenecks & The "Code Red" Outages
 **Date:** December 21, 2025  
 **Focus:** Reliability & Scalability
 
