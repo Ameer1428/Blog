@@ -16,6 +16,6 @@ When your primary AI API/Interface is down, follow this failover protocol:
 2. **Cache Purge:** Force a fresh handshake by clearing session tokens and local storage.
 3. **Redundancy:** Implement a "Multi-LLM" approach. If OpenAI's `gpt-4o` is unstable, failover to `gemini-2.5-pro` or `claude-4.5-sonnet`.
 
-4. 
+
 ---
 *Follow the journey on [LinkedIn](https://www.linkedin.com/in/ameerkhan1428/)*
