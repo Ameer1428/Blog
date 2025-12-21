@@ -1,6 +1,6 @@
 # Day 02: The Shift from "Chat" to "Agency" ⚙️
 
-In late 2025, the industry has reached a "Prompting Plateau." Simply writing better prompts no longer yields significant ROI. The real breakthrough is occurring in **Agentic Workflows**—moving from single-shot responses to autonomous, iterative loops.
+In late 2025, the industry has reached a "Prompting Plateau." Simply writing better prompts no longer yields significant ROI. The real breakthrough is occurring in **Agentic Workflows** moving from single-shot responses to autonomous, iterative loops.
 
 ## 🧠 What is an "Agentic Workflow"?
 Unlike a standard chatbot that answers and stops, an Agentic system follows a **Reasoning-Action (ReAct)** loop. It doesn't just "know" things; it "uses" things.
